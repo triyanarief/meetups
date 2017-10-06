@@ -34,5 +34,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "meetups-app": {
+    "dataSource": "db",
+    "public": true
   }
 }
